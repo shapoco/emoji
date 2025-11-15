@@ -6,16 +6,16 @@ Misskey.io 向けに自作したカスタム絵文字。パブリックドメイ
 
 ### 致死量 `:chishiryou:`
 
-![](./chishiryou.webp)
+<img src="./chishiryou.webp" height="64">
 
 ### はんだごて `:soldering:`
 
-![](./soldering.webp)
+<img src="./soldering.webp" height="64">
 
 ### IC (QFP) `:ic_qfp:`
 
-![](./ic_qfp.webp)
+<img src="./ic_qfp.webp" height="64">
 
 ### アジフライ `:ajifry:`
 
-![](./ajifry.png)
+<img src="./ajifry.png" height="64">
